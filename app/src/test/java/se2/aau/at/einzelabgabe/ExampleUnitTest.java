@@ -14,7 +14,9 @@ public class ExampleUnitTest {
     public void addition_isCorrect() {
         assertEquals(4, 2 + 2);
     }
+
+    @Test
     public void x_isCorrect() {
-        assertEquals(1, MainActivity.x());
+        assertEquals(2, MainActivity.x());
     }
 }
