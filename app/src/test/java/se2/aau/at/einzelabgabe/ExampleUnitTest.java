@@ -17,6 +17,6 @@ public class ExampleUnitTest {
 
     @Test
     public void x_isCorrect() {
-        assertEquals(2, MainActivity.x());
+        assertEquals(1, MainActivity.x());
     }
 }
