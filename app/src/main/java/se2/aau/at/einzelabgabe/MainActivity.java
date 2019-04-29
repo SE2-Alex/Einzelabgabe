@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public static int x(){
-        return 1;
+        return k;
     }
 }
